@@ -90,14 +90,6 @@ const productsAfter = [
   { name: "Portable BT Speaker", qty: 1 },
 ];
 
-// Ay-ay karşılaştırma için dönem bilgisi
-const comparisonInfo = {
-  before: "Oca–Ağu 2025 (Aylık Ort.)",
-  after: "1 Eyl – 20 Eki 2025 (Senin Dönemin)",
-  beforeDays: 242, // ~31 gün x 8 ay
-  afterDays: 50,
-};
-
 const sections = [
   { id: "summary", label: "📊 Özet" },
   { id: "trend", label: "📈 Ay-Ay Trend" },
