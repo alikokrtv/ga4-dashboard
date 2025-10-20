@@ -53,12 +53,17 @@ export default function GA4Dashboard() {
       
       {/* Başlık */}
       <div className="mb-8 text-center">
-        <h1 className="text-4xl font-bold text-gray-900 mb-2">
-          📊 Technofashion Raporu
-        </h1>
-        <p className="text-gray-600 text-lg">
-          1 Eylül - 20 Ekim 2025 (50 gün)
-        </p>
+        <div className="inline-block bg-white px-8 py-6 rounded-2xl shadow-lg">
+          <h1 className="text-5xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-3">
+            📊 Technofashion.com
+          </h1>
+          <p className="text-gray-700 text-xl font-semibold">
+            1 Eylül - 20 Ekim 2025
+          </p>
+          <p className="text-purple-600 font-bold text-lg mt-1">
+            ⏱ 50 Gün Performans Raporu
+          </p>
+        </div>
       </div>
 
       {/* Menü */}
