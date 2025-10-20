@@ -1,7 +1,7 @@
 import React, { useMemo, useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, LineChart, Line, PieChart, Pie, Cell, Legend, CartesianGrid } from "recharts";
+import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, LineChart, Line, PieChart, Pie, Legend, CartesianGrid } from "recharts";
 import { Calendar, Globe, TrendingUp, Users2, TimerReset, DollarSign, Table as TableIcon } from "lucide-react";
 
 /**
@@ -39,14 +39,6 @@ const kpiAfter = {
   revenue: 251.14,
   momUsers: 1500, // aydan aya net artış
   momPct: 128.8, // %
-};
-
-// Önceki toplam özet (1 Oca – 1 Eyl 2025) – kıyaslamak için
-const kpiBefore = {
-  users: parseB("11B"),
-  newUsers: parseB("11B"),
-  avg: 41,
-  revenue: 904.16,
 };
 
 // Haftanın günleri (13–19 Eki)
