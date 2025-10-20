@@ -1,0 +1,315 @@
+# ----------------------------------------
+# Raporlar anlık görüntüsü
+# Hesap: Technofashion
+# Mülk: Technofashion.com
+# ----------------------------------------
+#  
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+N. gün,Etkin kullanıcı sayısı
+0000,56
+0001,56
+0002,63
+0003,79
+0004,79
+0005,84
+0006,85
+0007,84
+0008,63
+0009,74
+0010,92
+0011,89
+0012,69
+0013,62
+0014,57
+0015,72
+0016,72
+0017,79
+0018,54
+0019,56
+0020,82
+0021,47
+0022,64
+0023,80
+0024,80
+0025,39
+0026,69
+0027,65
+0028,50
+0029,47
+0030,36
+
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+N. gün,Yeni kullanıcı sayısı
+0000,52
+0001,52
+0002,52
+0003,70
+0004,66
+0005,65
+0006,76
+0007,80
+0008,60
+0009,64
+0010,83
+0011,71
+0012,59
+0013,50
+0014,52
+0015,65
+0016,67
+0017,68
+0018,48
+0019,49
+0020,67
+0021,40
+0022,56
+0023,63
+0024,66
+0025,35
+0026,61
+0027,57
+0028,48
+0029,42
+0030,28
+
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+N. gün,Etkin kullanıcı başına ortalama etkileşim süresi
+0000,19.482142857142858
+0001,8.267857142857142
+0002,17.22222222222222
+0003,41.962025316455694
+0004,94.48101265822785
+0005,78.26190476190476
+0006,60.588235294117645
+0007,36.17857142857143
+0008,25.349206349206348
+0009,53.189189189189186
+0010,29.17391304347826
+0011,64.68539325842697
+0012,101.4927536231884
+0013,74.43548387096774
+0014,117.3157894736842
+0015,13.88888888888889
+0016,84.5
+0017,26.544303797468356
+0018,24.48148148148148
+0019,26.285714285714285
+0020,43.53658536585366
+0021,32.297872340425535
+0022,19.46875
+0023,26.075
+0024,38.4125
+0025,18.333333333333332
+0026,38.36231884057971
+0027,29.753846153846155
+0028,30.74
+0029,40.765957446808514
+0030,21.166666666666668
+
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+N. gün,Toplam gelir
+0000,0
+0001,0
+0002,21.2
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,0
+0028,0
+0029,0
+0030,0
+
+# Yeni kullanıcılarınız nereden geliyor?
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+İlk kullanıcı birincil kanal grubu (Varsayılan Kanal Grubu),Yeni kullanıcı sayısı
+Organic Search,907
+Direct,736
+Unassigned,42
+Organic Shopping,40
+Paid Search,32
+Referral,31
+Organic Social,15
+Organic Video,5
+Paid Shopping,4
+
+#  
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+Oturumla ilişkilendirilen birincil kanal grubu (Varsayılan Kanal Grubu),Oturumlar
+Organic Search,1270
+Direct,1016
+Unassigned,131
+Organic Shopping,79
+Referral,45
+Organic Social,35
+Paid Search,32
+Organic Video,6
+Paid Shopping,4
+
+#  
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+Ülke Kimliği,Etkin kullanıcı sayısı
+AM,3
+AR,4
+AT,1
+AU,2
+AW,8
+AZ,1
+BD,2
+BE,1
+BG,9
+BO,1
+BR,22
+BS,1
+CA,7
+CN,28
+CO,15
+CR,6
+CZ,1
+DE,7
+DK,2
+DO,2
+EC,10
+ES,2
+ET,1
+FR,9
+GB,13
+GE,3
+GH,1
+GR,3
+GT,9
+GU,1
+HK,16
+HN,4
+ID,3
+IE,1
+IL,2
+IN,45
+IT,4
+JP,2
+KW,1
+KZ,1
+LK,1
+MA,1
+MX,55
+NG,1
+NI,1
+NL,6
+NP,1
+NZ,1
+PE,5
+PH,27
+PK,8
+PL,5
+PR,1
+PS,1
+PT,2
+RO,7
+RS,3
+RU,5
+SA,1
+SE,1
+SG,20
+SK,1
+SR,1
+SV,6
+TH,2
+TR,465
+TW,4
+TZ,1
+UA,4
+US,963
+VE,1
+VN,7
+
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+Ülke,Etkin kullanıcı sayısı
+US,963
+TR,465
+MX,55
+IN,45
+CN,28
+PH,27
+BR,22
+
+# Etkin kullanıcılar nasıl bir eğilim gösteriyor?
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+N. gün,30 gün,7 gün,1 gün
+0000,1520,551,56
+0001,1538,563,56
+0002,1553,382,63
+0003,1591,405,79
+0004,1625,414,79
+0005,1628,436,84
+0006,1657,472,85
+0007,1678,499,84
+0008,1709,509,63
+0009,1729,519,74
+0010,1782,532,92
+0011,1811,549,89
+0012,1826,530,69
+0013,1842,506,62
+0014,1842,477,57
+0015,1856,482,72
+0016,1897,483,72
+0017,1934,474,79
+0018,1946,446,54
+0019,1959,437,56
+0020,1992,457,82
+0021,1988,444,47
+0022,2009,434,64
+0023,2039,438,80
+0024,2066,437,80
+0025,1869,425,39
+0026,1883,440,69
+0027,1881,431,65
+0028,1884,434,50
+0029,1886,416,47
+0030,1863,370,36
+
+# 120 günlük ortalama değeriniz nereden geliyor?
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+İlk kullanıcı birincil kanal grubu (Varsayılan Kanal Grubu),120 günlük ortalama değer
+Direct,0.02876526458616011
+
+#  
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+Ürün adı,Satın alınan ürünler
+Nautica Single Ear Bluetooth Headset T80,1
+
+# Platformlarınızdaki etkinliklerin karşılaştırması nasıl?
+# Başlangıç tarihi: 20250301
+# Bitiş tarihi: 20250331
+Platform,Önemli faaliyetler
+web,1

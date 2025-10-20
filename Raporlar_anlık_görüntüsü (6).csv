@@ -1,0 +1,320 @@
+# ----------------------------------------
+# Raporlar anlık görüntüsü
+# Hesap: Technofashion
+# Mülk: Technofashion.com
+# ----------------------------------------
+#  
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+N. gün,Etkin kullanıcı sayısı
+0000,45
+0001,35
+0002,42
+0003,45
+0004,33
+0005,29
+0006,66
+0007,39
+0008,79
+0009,50
+0010,42
+0011,26
+0012,56
+0013,46
+0014,33
+0015,43
+0016,28
+0017,30
+0018,26
+0019,35
+0020,30
+0021,37
+0022,31
+0023,42
+0024,27
+0025,168
+0026,32
+0027,27
+0028,38
+0029,41
+0030,27
+
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+N. gün,Yeni kullanıcı sayısı
+0000,39
+0001,27
+0002,35
+0003,40
+0004,31
+0005,29
+0006,58
+0007,36
+0008,68
+0009,43
+0010,35
+0011,23
+0012,56
+0013,38
+0014,30
+0015,37
+0016,24
+0017,25
+0018,26
+0019,32
+0020,27
+0021,35
+0022,25
+0023,31
+0024,24
+0025,168
+0026,31
+0027,23
+0028,34
+0029,34
+0030,23
+
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+N. gün,Etkin kullanıcı başına ortalama etkileşim süresi
+0000,23.977777777777778
+0001,34.6
+0002,73.30952380952381
+0003,17.977777777777778
+0004,31.90909090909091
+0005,43.62068965517241
+0006,48.46969696969697
+0007,37.30769230769231
+0008,30.949367088607595
+0009,39.66
+0010,56.285714285714285
+0011,32.19230769230769
+0012,17.75
+0013,22.217391304347824
+0014,57.121212121212125
+0015,42
+0016,24.464285714285715
+0017,11.1
+0018,39.53846153846154
+0019,29.742857142857144
+0020,30.333333333333332
+0021,26.486486486486488
+0022,18.451612903225808
+0023,44.833333333333336
+0024,36.592592592592595
+0025,22.297619047619047
+0026,20.8125
+0027,23.25925925925926
+0028,38.8421052631579
+0029,66.41463414634147
+0030,177.74074074074073
+
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+N. gün,Toplam gelir
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,29.89
+0023,0
+0024,29.89
+0025,0
+0026,0
+0027,0
+0028,0
+0029,0
+0030,0
+
+# Yeni kullanıcılarınız nereden geliyor?
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+İlk kullanıcı birincil kanal grubu (Varsayılan Kanal Grubu),Yeni kullanıcı sayısı
+Direct,609
+Organic Search,469
+Unassigned,40
+Referral,37
+Organic Social,11
+Organic Shopping,8
+Organic Video,6
+Paid Shopping,6
+Paid Other,1
+
+#  
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+Oturumla ilişkilendirilen birincil kanal grubu (Varsayılan Kanal Grubu),Oturumlar
+Direct,767
+Organic Search,609
+Unassigned,75
+Referral,54
+Organic Shopping,48
+Organic Social,13
+Organic Video,7
+Paid Shopping,6
+Paid Other,1
+
+#  
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+Ülke Kimliği,Etkin kullanıcı sayısı
+AM,2
+AR,3
+AS,1
+AT,2
+AU,2
+AW,1
+BO,1
+BR,6
+BS,1
+CA,18
+CM,1
+CN,24
+CO,11
+CR,4
+CZ,1
+DE,8
+DK,6
+EC,7
+EG,4
+ES,2
+FI,1
+FR,4
+GB,6
+GE,2
+GH,4
+GR,4
+GT,2
+GU,2
+HK,20
+HN,2
+HT,1
+ID,3
+IE,1
+IL,1
+IN,25
+IR,1
+IT,3
+JO,1
+JP,1
+KH,1
+KR,1
+KY,1
+MA,3
+MW,1
+MX,47
+MY,3
+MZ,1
+NL,5
+NP,1
+NZ,2
+PA,1
+PE,5
+PH,32
+PK,5
+PL,3
+PT,2
+RO,5
+RS,1
+RU,2
+SA,1
+SD,1
+SE,2
+SG,5
+SV,1
+TR,357
+TT,1
+TW,7
+UA,5
+UG,1
+US,549
+UY,1
+VE,1
+VN,9
+XK,1
+ZA,2
+
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+Ülke,Etkin kullanıcı sayısı
+US,549
+TR,357
+MX,47
+PH,32
+IN,25
+CN,24
+HK,20
+
+# Etkin kullanıcılar nasıl bir eğilim gösteriyor?
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+N. gün,30 gün,7 gün,1 gün
+0000,1223,281,45
+0001,1205,270,35
+0002,1192,265,42
+0003,1186,270,45
+0004,1185,274,33
+0005,1181,266,29
+0006,1210,286,66
+0007,1223,280,39
+0008,1249,320,79
+0009,1251,328,50
+0010,1237,326,42
+0011,1224,318,26
+0012,1245,347,56
+0013,1249,326,46
+0014,1243,323,33
+0015,1235,288,43
+0016,1209,266,28
+0017,1178,254,30
+0018,1167,254,26
+0019,1166,233,35
+0020,1163,219,30
+0021,1154,222,37
+0022,1136,210,31
+0023,1137,222,42
+0024,1122,221,27
+0025,1247,363,168
+0026,1243,361,32
+0027,1238,359,27
+0028,1237,361,38
+0029,1231,369,41
+0030,1212,355,27
+
+# 120 günlük ortalama değeriniz nereden geliyor?
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+İlk kullanıcı birincil kanal grubu (Varsayılan Kanal Grubu),120 günlük ortalama değer
+Unassigned,0.7290243902439024
+Organic Search,0.0637313432835821
+
+#  
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+Ürün adı,Satın alınan ürünler
+"Nautica PC130 Sonic Facial Cleansing Brush Made with Ultra Hygienic Soft Silicone, Waterproof and Re",1
+"Nautica PH 200 Universal Car Phone Holder – 3-in-1 Mount, 360° Rotation, Secure & Steady Grip",1
+
+# Platformlarınızdaki etkinliklerin karşılaştırması nasıl?
+# Başlangıç tarihi: 20250701
+# Bitiş tarihi: 20250731
+Platform,Önemli faaliyetler
+web,2

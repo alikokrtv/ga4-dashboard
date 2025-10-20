@@ -1,0 +1,304 @@
+# ----------------------------------------
+# Raporlar anlık görüntüsü
+# Hesap: Technofashion
+# Mülk: Technofashion.com
+# ----------------------------------------
+#  
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+N. gün,Etkin kullanıcı sayısı
+0000,41
+0001,34
+0002,36
+0003,74
+0004,54
+0005,69
+0006,38
+0007,47
+0008,32
+0009,55
+0010,55
+0011,43
+0012,57
+0013,58
+0014,29
+0015,36
+0016,42
+0017,40
+0018,45
+0019,56
+0020,45
+0021,37
+0022,47
+0023,250
+0024,57
+0025,69
+0026,54
+0027,46
+
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+N. gün,Yeni kullanıcı sayısı
+0000,39
+0001,33
+0002,31
+0003,67
+0004,47
+0005,57
+0006,31
+0007,42
+0008,27
+0009,45
+0010,49
+0011,37
+0012,52
+0013,52
+0014,27
+0015,29
+0016,32
+0017,34
+0018,39
+0019,42
+0020,37
+0021,37
+0022,43
+0023,238
+0024,45
+0025,58
+0026,43
+0027,41
+
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+N. gün,Etkin kullanıcı başına ortalama etkileşim süresi
+0000,16.75609756097561
+0001,42.6764705882353
+0002,24.833333333333332
+0003,40.71621621621622
+0004,17.166666666666668
+0005,27.115942028985508
+0006,28.68421052631579
+0007,19.659574468085108
+0008,22.21875
+0009,65.41818181818182
+0010,40.70909090909091
+0011,43.02325581395349
+0012,14.403508771929825
+0013,25.362068965517242
+0014,8.379310344827585
+0015,20.86111111111111
+0016,40.023809523809526
+0017,58.45
+0018,43.91111111111111
+0019,61.55357142857143
+0020,60.84444444444444
+0021,34.972972972972975
+0022,28.70212765957447
+0023,27.856
+0024,66.17543859649123
+0025,25.840579710144926
+0026,31.64814814814815
+0027,28.630434782608695
+
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+N. gün,Toplam gelir
+0000,0
+0001,0
+0002,0
+0003,0
+0004,36.74
+0005,0
+0006,0
+0007,0
+0008,0
+0009,19.48
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,0
+
+# Yeni kullanıcılarınız nereden geliyor?
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+İlk kullanıcı birincil kanal grubu (Varsayılan Kanal Grubu),Yeni kullanıcı sayısı
+Direct,725
+Organic Search,519
+Unassigned,30
+Organic Social,27
+Referral,27
+Organic Video,19
+Organic Shopping,6
+Paid Search,1
+
+#  
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+Oturumla ilişkilendirilen birincil kanal grubu (Varsayılan Kanal Grubu),Oturumlar
+Direct,904
+Organic Search,686
+Unassigned,94
+Organic Social,55
+Referral,43
+Organic Shopping,35
+Organic Video,21
+Paid Search,4
+Paid Shopping,1
+
+#  
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+Ülke Kimliği,Etkin kullanıcı sayısı
+AE,2
+AM,4
+AR,4
+AT,3
+AU,1
+AW,9
+BD,2
+BG,4
+BO,1
+BR,10
+BS,2
+BY,6
+BZ,1
+CA,5
+CH,2
+CN,33
+CO,9
+CR,7
+CW,1
+CY,2
+CZ,2
+DE,195
+DK,3
+EC,7
+EG,1
+ES,1
+FR,3
+GB,6
+GE,3
+GR,1
+GT,3
+HK,17
+HN,2
+HR,1
+HT,2
+ID,2
+IE,10
+IL,2
+IN,33
+IT,1
+JM,1
+KE,1
+LT,2
+MA,1
+MX,36
+NG,1
+NI,1
+NL,1
+NO,1
+PA,3
+PE,4
+PH,12
+PK,2
+PL,3
+PR,4
+PS,1
+RO,5
+RS,4
+RU,7
+SC,1
+SE,4
+SG,4
+SK,1
+SR,2
+SV,8
+TH,1
+TN,3
+TR,400
+TW,3
+TZ,1
+UA,1
+US,495
+UZ,1
+VE,1
+VN,15
+ZA,1
+
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+Ülke,Etkin kullanıcı sayısı
+US,495
+TR,400
+DE,195
+MX,36
+CN,33
+IN,33
+HK,17
+
+# Etkin kullanıcılar nasıl bir eğilim gösteriyor?
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+N. gün,30 gün,7 gün,1 gün
+0000,1362,329,41
+0001,1346,333,34
+0002,1300,311,36
+0003,1333,312,74
+0004,1353,313,54
+0005,1350,335,69
+0006,1332,334,38
+0007,1329,339,47
+0008,1313,335,32
+0009,1331,352,55
+0010,1331,332,55
+0011,1313,319,43
+0012,1314,311,57
+0013,1318,336,58
+0014,1305,318,29
+0015,1289,320,36
+0016,1276,307,42
+0017,1270,296,40
+0018,1288,298,45
+0019,1301,294,56
+0020,1302,278,45
+0021,1287,287,37
+0022,1303,298,47
+0023,1510,502,250
+0024,1526,510,57
+0025,1535,532,69
+0026,1514,530,54
+0027,1506,532,46
+
+# 120 günlük ortalama değeriniz nereden geliyor?
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+İlk kullanıcı birincil kanal grubu (Varsayılan Kanal Grubu),120 günlük ortalama değer
+Organic Shopping,8.031428571428572
+
+#  
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+Ürün adı,Satın alınan ürünler
+Nautica Usb-C To Usb-C Cable C30,2
+Nautica Pd / Qc 3.0 Dual Port Wall Charger CH80,1
+
+# Platformlarınızdaki etkinliklerin karşılaştırması nasıl?
+# Başlangıç tarihi: 20250201
+# Bitiş tarihi: 20250228
+Platform,Önemli faaliyetler
+web,2
